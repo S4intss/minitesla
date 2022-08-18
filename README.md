@@ -29,3 +29,27 @@ TEMARIO
     .Versatil
           .Aplicacion de escritorio, aplicacion de servidor, aplicacion web.
     
+    
+    print("primer ejercicio en python")
+variable1 = 5
+variable2 = 6
+suma = variable1 + variable2
+
+print("la suma es: ",variable1, "+", variable2,"=", suma)
+
+print("crecio con IVA")
+producto = 100
+iva = (0.18*100)
+precio = producto * iva
+
+print("precio con IVA de:",producto,"es..",precio) 
+
+
+
+a = 8
+b = 9
+if(a<b):
+    print("a es mayor que b")
+else:
+    print("b es mayor que b")
+    
