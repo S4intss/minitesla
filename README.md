@@ -30,6 +30,10 @@ TEMARIO
           .Aplicacion de escritorio, aplicacion de servidor, aplicacion web.
     
     
+    
+    First Ejercicios.
+    
+    
     print("primer ejercicio en python")
 variable1 = 5
 variable2 = 6
